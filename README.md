@@ -20,6 +20,7 @@
 
 Дані — ukrainealarm.com. NotchAlarm безкоштовний для всіх.
 Підтримати розробку: [Банка monobank](https://send.monobank.ua/jar/5rrnWmNDXq)
+Зв'язок: tokalabs.dev@gmail.com або в програмі — меню ☰ → «Написати нам»
 
 ---
 
